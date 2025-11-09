@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  사진 칸
+  <img src="./assets/yeirin-yello-logo.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 ---
