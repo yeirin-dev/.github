@@ -1,7 +1,7 @@
 ### Yeirin - 기술팀
 
 <div align="center">
-  <h1>Yeirin - 기술팀 깃허브 조직</h1>
+  <h1>Yeirin - 기술팀 깃허브 조직</h1> <br/>
   <p>🔍 Tech & Non-profit 🔍</p>
 </div>
 
