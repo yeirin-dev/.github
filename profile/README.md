@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/yeirin-yello-logo.png" alt="Yeirin Logo" width="200"/>
+  <img src="./assets/yeirin-yello-logo.png" alt="Yeirin Logo" width="400"/>
   <h1>예이린 사회적협동조합</h1>
   <p><b>기술로 돌봄을 새롭게, 아이들의 내일을 따뜻하게</b></p>
   <p>대한민국을 넘어 글로벌 돌봄 혁신을 선도하는 Tech Non-Profit</p>
